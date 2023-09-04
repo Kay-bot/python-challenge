@@ -1,0 +1,71 @@
+Sales Report
+----------------------------------------
+Total Number of Records in Sales Data: 148248
+
+Item Metrics:
+Item: spicy miso ramen
+01-count: 18476
+02-revenue: 221712.0
+03-cogs: 92380.0
+04-profit: 129332.0
+--------------------
+Item: tori paitan ramen
+01-count: 18312
+02-revenue: 238056.0
+03-cogs: 109872.0
+04-profit: 128184.0
+--------------------
+Item: truffle butter ramen
+01-count: 17964
+02-revenue: 251496.0
+03-cogs: 125748.0
+04-profit: 125748.0
+--------------------
+Item: tonkotsu ramen
+01-count: 18576
+02-revenue: 241488.0
+03-cogs: 111456.0
+04-profit: 130032.0
+--------------------
+Item: vegetarian spicy miso
+01-count: 18432
+02-revenue: 221184.0
+03-cogs: 92160.0
+04-profit: 129024.0
+--------------------
+Item: shio ramen
+01-count: 18360
+02-revenue: 201960.0
+03-cogs: 91800.0
+04-profit: 110160.0
+--------------------
+Item: miso crab ramen
+01-count: 17780
+02-revenue: 213360.0
+03-cogs: 106680.0
+04-profit: 106680.0
+--------------------
+Item: nagomi shoyu
+01-count: 18264
+02-revenue: 200904.0
+03-cogs: 91320.0
+04-profit: 109584.0
+--------------------
+Item: soft-shell miso crab ramen
+01-count: 18260
+02-revenue: 255640.0
+03-cogs: 127820.0
+04-profit: 127820.0
+--------------------
+Item: burnt garlic tonkotsu ramen
+01-count: 18140
+02-revenue: 253960.0
+03-cogs: 108840.0
+04-profit: 145120.0
+--------------------
+Item: vegetarian curry + king trumpet mushroom ramen
+01-count: 17648
+02-revenue: 229424.0
+03-cogs: 123536.0
+04-profit: 105888.0
+--------------------
